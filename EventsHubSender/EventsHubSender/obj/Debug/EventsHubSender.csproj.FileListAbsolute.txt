@@ -1,0 +1,9 @@
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\bin\Debug\EventsHubSender.exe.config
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\bin\Debug\EventsHubSender.exe
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\bin\Debug\EventsHubSender.pdb
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\bin\Debug\Microsoft.Azure.EventHubs.dll
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\obj\Debug\EventsHubSender.csprojResolveAssemblyReference.cache
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\obj\Debug\EventsHubSender.exe
+C:\Users\a-edport\Source\Repos\EventHub\EventsHubSender\EventsHubSender\obj\Debug\EventsHubSender.pdb
