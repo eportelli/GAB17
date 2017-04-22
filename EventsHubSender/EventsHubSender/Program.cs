@@ -39,7 +39,8 @@ namespace EventsHubSender
                     SensorId = 104,
                     Location = "Malta",
                     Speed = rnd1.Next(0, 100),
-                    time = DateTime.Now
+                    time = DateTime.Now,
+                    Name = "Edward"
 
                 };
                 var messageString = new JavaScriptSerializer().Serialize(telemetryDataPoint);
